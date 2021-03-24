@@ -1,5 +1,8 @@
-### Hey!
+###Hey there! 
 
-I am Lojacops uwu.
+I am Lojacops! i code and doing penetration testing!
 
-[![Lojacopsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacopsen)](https://github.com/Lojacopsen/github-readme-stats)
+⚜contact me on discord! ⛥Lojacops⛥#4754
+⚜contact me on my E-mail! Giovannibocciato@gmail.com
+
+![Lojacopsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacopsen&show_icons=true&theme=blue)
