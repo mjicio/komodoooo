@@ -11,4 +11,4 @@ I am Lojacops! i code and doing penetration testing, I mainly deal with web secu
 ⚜My Reddit! u/Lojacopsss
 
 
-![Lojacopsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacopsen&show_icons=true&theme=radical)
+![Lojacopsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacopsen&count_private=true&theme=radical)
