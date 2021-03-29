@@ -2,7 +2,7 @@ Hey there!
 
 I am Lojacops! i code and doing penetration testing, I mainly deal with web security.
 
-![image](https://user-images.githubusercontent.com/68278515/112796514-5f9d2780-906a-11eb-9575-21279ebe16e4.png)
+![image](https://user-images.githubusercontent.com/68278515/112796830-d2a69e00-906a-11eb-9fb6-7cb756ac7748.png)
 
 ⚜My Discord! ⛥Lojacops⛥#4754
 
