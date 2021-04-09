@@ -10,8 +10,7 @@ I am Lojacops! i code and doing penetration testing, I mainly deal with web secu
 
 ⚜My Reddit! u/Lojacopsss
 
-⚜Working at TNT Studios! ![image](https://user-images.githubusercontent.com/68278515/114157421-e8964780-9923-11eb-8932-49d1484ad847.png)
-
+⚜Working at TNT Studios! 
 
 ![Lojacopsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacopsen&count_private=true&theme=radical)
 
