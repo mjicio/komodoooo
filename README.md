@@ -1,6 +1,6 @@
 Hey there! 
 
-I am Lojacops! i code and doing penetration testing, I mainly deal with web security.
+I am Lojacops! i code and doing penetration testing, I mainly deal with local & web security.
 
 ![image](https://user-images.githubusercontent.com/68278515/116513600-24408380-a8ca-11eb-827e-d06ed63cde49.png)
 
