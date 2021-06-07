@@ -13,4 +13,4 @@ I am Lojacops! i code and doing penetration testing, I mainly deal with local & 
 ⚜Working at TNT Studios! ![image](https://user-images.githubusercontent.com/68278515/114585830-56c06e80-9c84-11eb-8603-83012fbfe189.png)
 
 ![Lojacops's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lojacops&show_icons=true&theme=merko)
-
+![Lojacops's Github stats](https://github-readme-stats.vercel.app/api?username=FREOK&show_icons=true&count_private=true&hide_border=true" alt = "usage")
