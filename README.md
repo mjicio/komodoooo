@@ -4,7 +4,7 @@ I am Lojacops! i code and doing penetration testing, I mainly deal with local & 
 
 ![gitacoo](https://user-images.githubusercontent.com/68278515/126864699-7d976d33-7131-445e-9783-db6b22370f16.png)
 
-⚜My Discord! དΔØŜཌ⛥Lojacops⛥#6969
+⚜My Discord! ⛥Lojacops⛥#2218
 
 ⚜My E-mail! Giovannibocciato@gmail.com
 
