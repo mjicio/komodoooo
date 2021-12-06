@@ -14,7 +14,7 @@ I am Lojacops! i code and doing penetration testing, I love webapp security and 
 
 ⚜Working at TNT Studios! ![image](https://user-images.githubusercontent.com/68278515/114585830-56c06e80-9c84-11eb-8603-83012fbfe189.png)
 
-![chitemmuort](https://github-readme-stats.vercel.app/api?username=Lojacops&show_icons=true&theme=yeblu)
+![chitemmuort](https://github-readme-stats.vercel.app/api?username=Lojacops&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lojacops&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lojacops&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
