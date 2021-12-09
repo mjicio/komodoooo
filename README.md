@@ -4,7 +4,7 @@ I am Lojacops! i code and doing penetration testing, I love webapp security and 
 
 ![gitacoo](https://user-images.githubusercontent.com/68278515/126864699-7d976d33-7131-445e-9783-db6b22370f16.png)
 
-⚜My Discord! ⛥Komodo⛥#5973
+⚜My Discord! ⛥Dredgen⛥#5973
 
 ⚜My E-mail! Giovannibocciato@gmail.com
 
