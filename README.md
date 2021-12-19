@@ -1,6 +1,6 @@
 Hey there! 
 
-I am Loja! El creador del sexo, I love webapp security and exploitation.
+I am Loja! I love coding, webapp security and exploitation.
 
 ![gittiub](https://user-images.githubusercontent.com/68278515/146410940-1ea17721-040d-44a8-9bd0-55bd4062a20b.png)
 
