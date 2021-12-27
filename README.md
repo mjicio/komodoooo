@@ -1,6 +1,6 @@
 Hey there! 
 
-I am Loja! I love coding, webapp security and exploitation.
+I am Komodo! I love coding, webapp security and exploitation.
 
 ![gittiub](https://user-images.githubusercontent.com/68278515/146410940-1ea17721-040d-44a8-9bd0-55bd4062a20b.png)
 
@@ -14,7 +14,7 @@ I am Loja! I love coding, webapp security and exploitation.
 
 ⚜Working at TNT Studios! ![image](https://user-images.githubusercontent.com/68278515/114585830-56c06e80-9c84-11eb-8603-83012fbfe189.png)
 
-![chitemmuort](https://github-readme-stats.vercel.app/api?username=Lojacops&show_icons=true&theme=highcontrast)
+![chitemmuort](https://github-readme-stats.vercel.app/api?username=kkomodoo&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lojacops&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkomodoo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
