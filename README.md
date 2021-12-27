@@ -2,7 +2,7 @@ Hey there!
 
 I am Komodo! I love coding, webapp security and exploitation.
 
-![gittiub](https://user-images.githubusercontent.com/68278515/146410940-1ea17721-040d-44a8-9bd0-55bd4062a20b.png)
+![komdosex](https://user-images.githubusercontent.com/68278515/147501724-a4218b61-e970-412a-8691-894cb9c2d0c0.jpg)
 
 ⚜My Discord! ⛥Komodo⛥#5973
 
@@ -12,7 +12,7 @@ I am Komodo! I love coding, webapp security and exploitation.
 
 ⚜My Telegram! @elbozoo
 
-⚜Working at TNT Studios! ![image](https://user-images.githubusercontent.com/68278515/114585830-56c06e80-9c84-11eb-8603-83012fbfe189.png)
+⚜MK's father!
 
 ![chitemmuort](https://github-readme-stats.vercel.app/api?username=kkomodoo&show_icons=true&theme=highcontrast)
 
