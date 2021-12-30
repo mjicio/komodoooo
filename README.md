@@ -14,7 +14,7 @@ I am Komodo! I love coding, webapp security and exploitation.
 
 ⚜MK's father!
 
-![chitemmuort](https://github-readme-stats.vercel.app/api?username=kkomodoo&show_icons=true&theme=highcontrast)
+![chitemmuort](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkomodoo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komodoooo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
