@@ -12,7 +12,7 @@ I am Komodo! I love coding, webapp security and exploitation.
 
 ⚜My Telegram! @elbozoo
 
-⚜ينتهي الله هنا
+⚜Sesso oscuro scimmia sesso علم
 
 ![chitemmuort](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&theme=highcontrast)
 
