@@ -12,7 +12,7 @@ I am Komodo! I love coding, webapp security and exploitation.
 
 ⚜My Telegram! @elbozoo
 
-⚜MK's father!
+⚜ينتهي الله هنا
 
 ![chitemmuort](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&theme=highcontrast)
 
