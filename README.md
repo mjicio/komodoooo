@@ -4,7 +4,7 @@ I am Komodo! I love coding, webapp security and exploitation.
 
 ![komdosex](https://user-images.githubusercontent.com/68278515/147501724-a4218b61-e970-412a-8691-894cb9c2d0c0.jpg)
 
-⚜My Discord! ⛥Lojacops⛥#5973
+⚜My Discord! (user ID: 601010597970051072)
 
 ⚜My E-mail! Giovannibocciato@gmail.com
 
